@@ -1,0 +1,3 @@
+[submodule "crf_ros2_interfaces"]
+	path = crf_ros2_interfaces
+	url = https://github.com/SOPRANO-Project/crf_ros2_interfaces.git
